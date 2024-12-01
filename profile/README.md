@@ -20,7 +20,7 @@ design, and development since 2011.
 
 While we create meaningful web experiences for our clients,
 we also like to share our knowledge and code with the web community.
-A lot of our websites are built on Craft CMS, and so naturally,
+A lot of our websites are built on [Craft CMS][4], and so naturally,
 several of our open-source code bases are focused around Craft.
 We have published a [few free Craft plugins][ps] and continue to host
 [a Packagist server for Craft CMS 2][p2].
@@ -28,5 +28,6 @@ We have published a [few free Craft plugins][ps] and continue to host
 [1]:https://miranj.in/
 [2]:https://miranj.in/purpose
 [3]:https://miranj.in/work "Our Work"
+[4]:https://github.com/craftcms/cms "Craft CMS on GitHub"
 [ps]:https://plugins.craftcms.com/developer/miranj
 [p2]:https://craft2packages.miranj.in/ "craft2packages.miranj.in"
