@@ -12,14 +12,14 @@
 -->
 
 We’re [Miranj][1] — a strategic web design and development studio.
-We’re a small team distributed in India 🇮🇳,
+We’re a small team distributed in India 🇮🇳 & the Netherlands 🇳🇱,
 and work with [a strong sense of purpose][2].
 We love building content-heavy websites and have been helping [a diverse set
 of clients][3] (from independent filmmakers to non-profits) with content strategy,
 design, and development since 2011.
 
 While we create meaningful web experiences for our clients,
-we also like to share our knowledge and code with the web community.
+we also like to [share our knowledge][5] and code with the web community.
 A lot of our websites are built on [Craft CMS][4], and so naturally,
 several of our open-source code bases are focused around Craft.
 We have published a [few free Craft plugins][ps] and continue to host
@@ -29,5 +29,6 @@ We have published a [few free Craft plugins][ps] and continue to host
 [2]:https://miranj.in/purpose
 [3]:https://miranj.in/work "Our Work"
 [4]:https://github.com/craftcms/cms "Craft CMS on GitHub"
+[5]:https://miranj.in/talks "Talks by the Miranj team"
 [ps]:https://plugins.craftcms.com/developer/miranj
 [p2]:https://craft2packages.miranj.in/ "craft2packages.miranj.in"
