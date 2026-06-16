@@ -12,7 +12,7 @@
 -->
 
 We’re [Miranj][1] — a strategic web design and development studio.
-We’re a small team distributed in India 🇮🇳 and Cambodia 🇰🇭,
+We’re a small team distributed in India 🇮🇳,
 and work with [a strong sense of purpose][2].
 We love building content-heavy websites and have been helping [a diverse set
 of clients][3] (from independent filmmakers to non-profits) with content strategy,
