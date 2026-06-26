@@ -1,25 +1,25 @@
-## Summary
-<!-- Provide a clear summary of the changes introduced by this PR. Include motivation and context. -->
+Closes # <!-- Asana link -->
 
-Closes # <!-- Link the Asana request here -->
 
-## Type of change
-<!-- Please delete options that are not relevant. -->
-- [ ] Bug fix <!--(non-breaking change, fixes an issue)-->
-- [ ] New feature <!--(non-breaking change, adds functionality)-->
-- [ ] Breaking change <!--(fix or feature causing existing functionality to change)-->
-- [ ] CMS/Content model change
-- [ ] Plugin installation/update
-- [ ] Chore/Refactor <!-- (code optimization, styling, file reorganizations, etc.)-->
-- [ ] Documentation update
-- [ ] Permission update
 
-## Tests
-- [ ] Verified create/edit/save permissions
-- [ ] Tested empty/error states
-- [ ] Verified CP navigation visibility
-- [ ] Verified no new console  warnings/errors
-- [ ] Verified access as non-admin
+<!-- Remove irrelevant sections -->
+### Deployment Notes
+<!--  .env updates, resave commands, authoring change, etc. -->
+---
 
-## Deployment Notes
-Anything special required during deployment?
+- [ ] Added CHANGELOG.md entry
+
+## New CP Section / Entry Type / Plugins
+- [ ] Verified CRUD permissions as Editors (or more specific group)
+- [ ] Notified PM for new plugin license(s), if any:
+- [ ] Included screenshot of data model changes
+
+## Frontend
+- [ ] Tested on mobile
+- [ ] Tested on multiple browsers
+- [ ] Verified no new console warnings/errors
+
+## Forms
+- [ ] Verified form validations before submission
+- [ ] Verified admin email notifications
+- [ ] Verified email notifications
