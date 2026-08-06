@@ -14,6 +14,9 @@ Closes # <!-- Asana link -->
 - [ ] Notified PM for new plugin license(s), if any:
 - [ ] Included screenshot of data model changes
 
+## Refactor
+- [ ] If any data-model handles/variable names have changed then ensure _all_ instances of that have been updated in the code.
+
 ## Frontend
 - [ ] Tested on mobile
 - [ ] Tested on multiple browsers
