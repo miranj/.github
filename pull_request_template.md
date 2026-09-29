@@ -18,11 +18,13 @@ Closes # <!-- Asana link -->
 - [ ] If any data-model handles/variable names have changed then ensure _all_ instances of that have been updated in the code.
 
 ## Frontend
+- [ ] Tested with template caching enabled
 - [ ] Tested on mobile
 - [ ] Tested on multiple browsers
 - [ ] Verified no new console warnings/errors
 
 ## Forms
+- [ ] Tested with template caching enabled
 - [ ] Verified form validations before submission
 - [ ] Verified admin email notifications
 - [ ] Verified email notifications
