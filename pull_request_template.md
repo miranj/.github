@@ -8,6 +8,7 @@ Closes # <!-- Asana link -->
 ---
 
 - [ ] Added CHANGELOG.md entry
+- [ ] Tested for regressions via `npx github:miranj/pagedrift`
 
 ## New CP Section / Entry Type / Plugins
 - [ ] Verified CRUD permissions as Editors (or more specific group)
